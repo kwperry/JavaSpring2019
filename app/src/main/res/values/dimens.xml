@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="app_margin_top">60dp</dimen>
+    <dimen name="calc_btn">405dp</dimen>
+    <dimen name="labelPadding">10dp</dimen>
+</resources>

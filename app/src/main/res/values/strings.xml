@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LAB8</string>
+    <string name="action_settings">Settings</string>
+    <string name="NumberToBuy">Number to buy</string>
+    <string name="ItemCost">Item Cost</string>
+    <string name="BulkDiscount">Bulk Discount</string>
+    <string name="OrderInformation">Order Information</string>
+    <string name="Minimum" >Minimum</string>
+    <string name="Percent">Percent</string>
+    <string name="buy_n_get_1_free">Buy N Get 1 Free</string>
+    <string name="PurchaseNum"># To buy for disc</string>
+    <string name="CalcResources">Calculate Resources</string>
+    <string name="BulkDiscountSavings">Bulk Discount</string>
+    <string name="BuyNSavings">Buy N Savings</string>
+</resources>
